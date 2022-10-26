@@ -44,3 +44,22 @@ h2{
         width: 300px;
     height: 200px;
 }
+
+.segment-2 > h2{
+    text-align: center;
+}
+
+.reviews{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.review{
+    width: 302px;
+}
+
+.review p{
+    text-align: justify;
+    padding-left: 30px;
+    border-left: 2px solid tomato;
+}
