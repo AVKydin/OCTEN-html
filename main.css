@@ -11,3 +11,10 @@ h2{
 .yyy{
     font-size: 40px;
 }
+
+.target{
+    background: silver;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 10px solid blue;
+}
