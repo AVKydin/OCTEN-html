@@ -81,3 +81,33 @@ font-weight: 700;
     background: #00A8F0;
     margin-top: 200px;
 }
+
+.directions > h2{
+margin-top: 45px;
+margin-left: 200px;
+margin-bottom: 105px;
+}
+
+.directions-box{
+    display: flex;
+    justify-content: center;
+}
+
+.direction{
+    width: 295px;
+    margin-right: 55px;
+}
+.direction > h4{
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    margin-top: 22px;
+    margin-bottom: 55px;
+}
+
+.direction > p {
+    font-size: 14px;
+    border-top: 1px solid #ED8651;
+    padding-top: 30px;
+    margin-bottom: 110px;
+}
